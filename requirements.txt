@@ -1,8 +1,8 @@
-streamlit
-ultralytics
+streamlit==1.26.0
+ultralytics==8.1.7
 Pillow
 numpy
-opencv-python
+opencv-python-headless
 PyYAML
 supervision
 pandas
