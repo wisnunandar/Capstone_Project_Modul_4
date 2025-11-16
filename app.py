@@ -17,8 +17,8 @@ import time
 # ------------------------
 # Config
 # ------------------------
-MODEL_PATH = r"C:\Caps_modul4\best.pt"       # <-- sesuaikan (utama)
-DATA_YAML_PATH = r"C:\Caps_modul4\data.yaml" # <-- sesuaikan
+MODEL_PATH = "best.pt"       # <-- sesuaikan (utama)
+DATA_YAML_PATH = "data.yaml" # <-- sesuaikan
 DEFAULT_CONF_THRESHOLD = 0.3
 
 # ------------------------
