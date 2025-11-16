@@ -1,0 +1,10 @@
+streamlit
+ultralytics
+PIL
+numpy
+collections
+cv2
+yaml
+re
+io
+supervision
